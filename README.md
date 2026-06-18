@@ -109,6 +109,20 @@ translator/
 ```
 
 ---
+**LIVE DEMO **
+https://codealpha-nexuslang.onrender.com/
+
+
+** SCREENSHOT**
+<img width="1895" height="953" alt="image" src="https://github.com/user-attachments/assets/22b41ab8-fd4d-42db-8615-cf99954b28ae" />
+
+<img width="1885" height="843" alt="image" src="https://github.com/user-attachments/assets/c45e40d1-64e9-4832-b179-158fb1c41a7d" />
+
+
+
+** AUTHOR**
+SHIVAM KUMAR RAY
+www.linkedin.com/in/shivam-kumar-ray-ba45b0204
 
 ## 📝 Notes
 
